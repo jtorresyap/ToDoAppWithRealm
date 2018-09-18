@@ -1,0 +1,6 @@
+framework module Pods_TodeyRealmTests {
+  umbrella header "Pods-TodeyRealmTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
